@@ -1,0 +1,19 @@
+# Project Overview: AI Powered Network Guardian
+
+## 1. network_monitoring.py
+This is the main file of the Streamlit application. It contains the core logic for the application, including:
+- **Functionality**: 
+  - Displays network statistics, cost optimization, energy efficiency metrics, fault predictions, and possible fixes.
+  - Implements data visualization using Streamlit's built-in functions.
+  - Handles user interactions through buttons and sliders.
+  - Provides options to export data to Excel.
+- **Technologies Used**: 
+  - **Streamlit**: For creating the web application interface.
+  - **Pandas**: For data manipulation and exporting to Excel.
+  - **NumPy**: For generating simulated data and performing numerical operations.
+
+## 2. project_overview.txt
+This file serves as an overview of the project, summarizing the functions and technologies used in the application. It provides a quick reference for developers and stakeholders to understand the project's structure and functionality.
+
+## Summary
+The project utilizes modern web technologies to create an interactive application aimed at monitoring network performance and efficiency. The use of AI for fault prediction enhances proactive maintenance capabilities, while the data visualization features improve user engagement and understanding.

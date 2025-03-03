@@ -1,0 +1,8 @@
+kafka-python
+requests
+streamlit
+numpy
+pandas
+tensorflow
+scikit-learn
+xlsxwriter
